@@ -1,2 +1,3 @@
-# base-project
-We'll be using this project as a base project for all the rest
+Definir la funcion que convierte una cadena de caracteres, pasada por referencia, a
+ minusculas. Debe devolver la nueva cadena de caracteres en una nueva porción de memoria
+ 
